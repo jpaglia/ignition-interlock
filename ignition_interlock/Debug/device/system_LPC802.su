@@ -1,0 +1,3 @@
+system_LPC802.c:67:6:SystemInit	8	static
+system_LPC802.c:84:6:SystemCoreClockUpdate	8	static
+system_LPC802.c:108:29:SystemInitHook	8	static

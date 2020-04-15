@@ -1,0 +1,16 @@
+fsl_clock.h:414:24:CLOCK_GetCoreSysClkFreq	8	static
+fsl_clock.h:442:24:CLOCK_GetLPOscFreq	8	static
+fsl_clock.h:450:24:CLOCK_GetExtClkFreq	8	static
+fsl_clock.c:57:17:CLOCK_GetFRGInputClkFreq	24	static
+fsl_clock.c:78:6:CLOCK_SetFRGClkFreq	72	static
+fsl_clock.c:99:13:CLOCK_UpdateClkSrc	16	static
+fsl_clock.c:113:10:CLOCK_GetFRGClkFreq	40	static
+fsl_clock.c:124:10:CLOCK_GetMainClkFreq	16	static
+fsl_clock.c:156:10:CLOCK_GetFroFreq	8	static
+fsl_clock.c:164:10:CLOCK_GetClockOutClkFreq	16	static
+fsl_clock.c:197:10:CLOCK_GetUart0ClkFreq	16	static
+fsl_clock.c:227:10:CLOCK_GetUart1ClkFreq	16	static
+fsl_clock.c:257:10:CLOCK_GetFreq	24	static
+fsl_clock.c:296:6:CLOCK_InitExtClkin	16	static
+fsl_clock.c:309:6:CLOCK_SetMainClkSrc	24	static
+fsl_clock.c:325:6:CLOCK_SetFroOscFreq	16	static
