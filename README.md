@@ -1,6 +1,14 @@
-<h3>IGNITION INTERLOCK SYSTEM</h3> 
+# Breathalyzer / Ignition Interlock System 
+
+This breathalyzer device was built using the LPC802 (OM40000) Development Board from NXP and developed in the MCUXpresso IDE Version 11.1. The specifications and context of this project can be read in the Wiki of this repository. <br>
 
 A 5 minute demo video can be found here: https://www.youtube.com/watch?v=ckXBO3qJL2w
+
+## Building the Project
+The hardware for this device is as follows: <br>
+<TODO: insert circuit diagram>
+
+
 
 *****************************************
 Copyright 2016-2020 NXP <br>
